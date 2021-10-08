@@ -61,7 +61,14 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     align-self: center;
     
 }
+#elementoDos{display: flex;
+    align-items: flex-end;
+
+}
 #elementoTres{display: flex;
  
    align-self: flex-end;
     }
+
+#elementoCuatro {display: flex;
+}
